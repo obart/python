@@ -1,5 +1,5 @@
 #Luis Marcano, Owen Bartolotta
-#lab 6
+
 #cisc 106-15
 from cisc106 import *
 ##def round_list(lst, decimals):
